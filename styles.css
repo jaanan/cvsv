@@ -3,9 +3,6 @@ h1 {
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
 
-  body {
-    margin-left: 500 em;
-    max-width: 50em;
-    line-height: 1.5;
-    padding: 4em 1em;
+  .container {
+    margin-left: 100px;
   }
