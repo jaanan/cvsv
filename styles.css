@@ -2,3 +2,8 @@ h1 {
     color: pink;
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
+
+  body {
+    margin: 0 auto;
+    max-width: 50em;
+  }
