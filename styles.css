@@ -21,7 +21,7 @@ h2 {
   }
 
   .third-container {
-    position: relative;
+    position: absolute;
     left: 500px; bottom: 316px;
     color: lightgreen;
   }
