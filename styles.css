@@ -3,6 +3,11 @@ h1 {
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
 
+h2 {
+    font-style: bold;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+  }
+
   .container {
     position: relative;
     left: 250px;
