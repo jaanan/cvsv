@@ -21,6 +21,7 @@ h2 {
   }
 
   .third-container {
+    font-size: 16px;
     position: absolute;
     left: 500px;
     top: 78px;
