@@ -21,9 +21,9 @@ h2 {
   }
 
   .third-container {
-    position: absolute;
+    position: relative;
     left: 500px;
-    margin-top: 100 px;
+    bottom: 500 px;
     color: lightgreen;
   }
   #sisennys {
