@@ -10,13 +10,13 @@ h1 {
 
   .second-container {
     position: relative;
-    left: 100px;
+    left: 80px;
     color: gray;
   }
 
   .third-container {
     position: relative;
-    left: 500px;
-    bottom: 500px;
+    left: 520px;
+    bottom: 550px;
     color: lightgreen;
   }
