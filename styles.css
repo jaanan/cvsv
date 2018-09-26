@@ -10,13 +10,13 @@ h2 {
 
   .container {
     position: absolute;
-    left: 150px;
+    left: 250px;
   }
 
   .second-container {
     font-size: 16px;
     position: absolute;
-    left: 150px;
+    left: 250px;
     top: 78px;
     color: gray;
   }
@@ -24,7 +24,7 @@ h2 {
   .third-container {
     font-size: 16px;
     position: absolute;
-    left: 416px;
+    left: 516px;
     top: 78px;
     color: lightslategray;
   }
