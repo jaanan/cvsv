@@ -16,6 +16,7 @@ h1 {
 
   .third-container {
     position: relative;
-    left: 100px;
+    left: 500px;
+    bottom: 500px;
     color: lightgreen;
   }
